@@ -1,4 +1,4 @@
-# Define gravitational constants as a constant dictionary
+# Defining gravitational constants as a constant dictionary
 GRAVITY_FACTORS: dict[str, float] = {
     "mercury": 0.376,
     "venus": 0.889,
